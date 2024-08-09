@@ -1,2 +1,2 @@
 # Forum
- forum website is  dynamic and responsive online community where you can  connect, share, and explore topics that matter with like-minded individuals. Always engaging and accessible.
+Forum is a responsive online community built with PHP, managed via phpMyAdmin, and designed using Bootstrap. Join us for seamless, engaging discussions on a wide range of topics, supported by a secure and efficient platform.
